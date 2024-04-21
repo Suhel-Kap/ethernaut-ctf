@@ -1,5 +1,8 @@
 ## Foundry
 
+This repository contains the solutions to the [Ethernaut CTF](https://ethernaut.openzeppelin.com/) challenges.
+
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
